@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Mohammed Nabil, and I'm an enthusiastic Full Stack Developer with a passion for building innovative and user-friendly web applications.
+
+- 🔭 I’m currently working on [MERN real estate app](https://github.com/Mnet007/MERN-RealEstate)
+- 🌱 I’m currently enrolled in Coursera’s Blockchain Specialization and Meta’s Full Stack Developer Specialization
+- 👯 I’m looking to collaborate on open-source projects and real-world web apps
+  - Send me ideas to nabilkabirumohammed@gmail.com
   
 <!--
 **Mnet007/Mnet007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
