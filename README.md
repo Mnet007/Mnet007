@@ -2,8 +2,7 @@
 
 My name is Mohammed Nabil, and I'm an enthusiastic Full Stack Developer with a passion for building innovative and user-friendly web applications.
 
-- 🔭 I’m currently working on [MERN real estate app](https://github.com/Mnet007/MERN-RealEstate)
-- 🌱 I’m currently enrolled in Coursera’s Blockchain Specialization and Meta’s Full Stack Developer Specialization
+- 🔭 I’m currently working on [Apple Landing page](https://github.com/Mnet007/macbook_landing_page)
 - 👯 I’m looking to collaborate on open-source projects and real-world web apps
   - Send me ideas to nabilkabirumohammed@gmail.com
   
